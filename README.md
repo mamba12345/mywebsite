@@ -1,4 +1,6 @@
 # mywebsite
 MY PORTFOLIO -  Shivam Sahu
-CSE Undergrad at IIT Patna
+CSE(computer science) Undergrad at IIT Patna
 SOPHOMORE YEAR
+
+
